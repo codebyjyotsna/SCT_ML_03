@@ -29,9 +29,6 @@ Image classification is a foundational task in computer vision. The most common 
 2. **Directory Inspection**
     - Recursively print the contents of the extracted folders to verify the presence of cat and dog images
     - Ensure the dataset is prepared for the next steps (preprocessing, training, etc.)
-
-*Note: This notebook does not include model building or training; it is focused on data preparation.*
-
 ## Requirements
 
 - Python 3.x
